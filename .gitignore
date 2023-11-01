@@ -106,7 +106,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -115,5 +114,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Application
-ATC.Discord.Presence-1.0.0.Setup.exe
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
