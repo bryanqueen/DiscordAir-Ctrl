@@ -115,5 +115,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Application
-ATC.Discord.Presence-1.0.0.Setup.exe
