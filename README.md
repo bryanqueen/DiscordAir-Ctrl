@@ -2,7 +2,7 @@
 
 Nice Discord rich presences for virtual air traffic controllers.
 
-**Installation:** This is desktop app, you can download the installer [here]('./ATC.Discord.Presence-1.0.0.Setup.exe') and run it!
+**Installation:** This is desktop app, you can download the installer [here]('https://github.com/bryanqueen/DiscordAir-Ctrl/releases/tag/v1.0.0') and run it!
 
 **Supported clients:**
 
